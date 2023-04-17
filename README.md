@@ -1,1 +1,1 @@
-This is my Javascript Backend Traing Repository at ALX 2023.
+This is my Javascript Backend Training Repository at ALX 2023.
