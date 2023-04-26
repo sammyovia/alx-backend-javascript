@@ -1,1 +1,1 @@
-This is my Javascript Backend Training Repository at ALX 2023.
+# 0x01. ES6 Promises
